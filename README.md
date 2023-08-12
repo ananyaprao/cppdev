@@ -1,5 +1,5 @@
 # cppdev
-<h1>course outcomes of C++ development course beginner to advanced</h1>h1>
+<h1>course outcomes of C++ development course beginner to advanced</h1>
 <h3>step 1</h3>
 <h4>installation of editor and compilers</h4> 
 for learning c++ development i am using the follwing editor and compilers 
