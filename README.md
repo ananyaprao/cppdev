@@ -14,4 +14,20 @@ using spaceship operator (<=>) we create a template for project and run it using
 this creates a json task file 
   <br>
 on compilation build is successful
+<br>
+<h3>step 3</h3>
+<h4>Basics of c++</h4>
+First C++ Program
+  <br>
+Comments
+  <br>
+Errors And Warnings
+<br>
+Statements And Functions
+<br>
+Input Output
+<br>
+C++ Program Execution Model & Memory Model
+<br>
+C++ Core Language VS Standard Library VS STL
 
